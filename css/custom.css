@@ -1,0 +1,22 @@
+/* Customized css */
+.navbar-brand {
+    font-family: 'Raleway' !important;
+    font-size: 200%;
+    font-weight: 600 !important;
+    letter-spacing: 1px !important;
+}
+
+.bg-white-240 {
+    background-color: rgb(240,240,240) !important;
+}
+
+.portrait {
+    height: 200px;
+    width: 200px;
+    margin: 10px 10px 10px 10px;
+}
+
+.portrait-caption {
+    margin: 10px 10px 20px 10px;
+    color: rgb(240,240,240) !important;
+}
